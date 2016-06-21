@@ -35,7 +35,6 @@ Timer block</br>
 At least 1 refinery and/or Arc Furnace</br>
 1 Container called "Ores"</br>
 1 Container called "ingots"</br>
-
 The named Containers and ALL Refineries/Arc Furnaces on the grid are connected.
 
 Note: All ores and ingots need to be stacked as much as possible.</br>
