@@ -12,6 +12,13 @@ This priority system will try to satisfy the demands for each individual ingot t
 However, Ores that can be processed by the Arc Furnace, will be processed in parallel with Ores in the refineries if possible.</br>
 Refineries will help out Arc Furnaces if their own demand or supply hits 0.
 
+Manual override:</br>
+Ex:</br>
+Platinum target not reached, platinum being refined.</br>
+You need silver asap.
+
+Just manually drag the silver to the first slot on any refinery(ies) you want, the script will omit those refineries untill the silver you added in has been processed. Afterwards it will regain functionality as if nothing happened.
+
 Current default priority order:
 
 Refineries</br>
